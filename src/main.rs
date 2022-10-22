@@ -1,5 +1,5 @@
-use std::path::PathBuf;
 use clap::Parser;
+use std::path::PathBuf;
 
 /// A utility to publish a large set of geojson files on a static host
 #[derive(Parser, Debug)]

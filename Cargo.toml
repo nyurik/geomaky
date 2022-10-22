@@ -2,7 +2,7 @@
 name = "geomaky"
 version = "0.1.0"
 edition = "2021"
-authors = "Yuri Astrakhan <YuriAstrakhan@gmail.com>"
+authors = ["Yuri Astrakhan <YuriAstrakhan@gmail.com>"]
 description = "Serverless map publishing tool"
 repository = "https://github.com/nyurik/geomaky"
 license = "MIT OR Apache-2.0"
